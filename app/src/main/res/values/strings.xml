@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toothpick</string>
+    <string name="button_load">LOAD</string>
+    <string name="button_save">SAVE</string>
+    <string name="hint_name">NAME</string>
+    <string name="hint_email">E-MAIL</string>
+</resources>
